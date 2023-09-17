@@ -1,0 +1,16 @@
+{
+  "name": "readline_input",
+  "version": "1.0.0",
+  "main": "coffee-maschine.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node coffee-machine.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
